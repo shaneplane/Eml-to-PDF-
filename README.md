@@ -37,6 +37,7 @@ This will:
 - Save the PDFs in the `./pdfs` folder (created automatically if it doesn't exist)
 - Each PDF will have the same name as the original .eml file but with a .pdf extension
 
+As the code is now the input folder is defined as " in ", so you have to create a folder called "in" in the same directory, to put all the emails in.
 ## Sample Usage
 
 1. Create a folder with your .eml files:
